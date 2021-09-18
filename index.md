@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: white
-      background_image: images/diagonal-lines.svg
+      background_image: images/federico-respini-sYffw0LNr7s-unsplash.jpg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
