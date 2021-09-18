@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Yellowstone Valley Farmers' Market
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Saturday\n starting July 17th through October 2nd! Located at the \_Intersection of\n 2nd Ave N and N Broadway in Downtown Billings~ 8am to noon"
     actions:
       - label: Learn More
         url: /features
