@@ -21,7 +21,7 @@ sections:
     background:
       background_color: white
       background_image: images/federico-respini-sYffw0LNr7s-unsplash.jpg
-      background_image_opacity: 20
+      background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
