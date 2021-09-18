@@ -20,6 +20,13 @@
                 "style": "link"
             },
             {
+                "label": "Become a vendor",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Sponsors",
                 "url": "/style-guide",
                 "style": "link"
@@ -28,13 +35,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Become a vendor",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
